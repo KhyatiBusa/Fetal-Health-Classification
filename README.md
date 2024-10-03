@@ -38,7 +38,9 @@ There was a clear relationship between abnormal short and long term fetal heart 
 
 
 Conclusion
+
 In conclusion, this data analysis project focused on fetal health classification using Cardiotocogram (CTG) exam data, aiming to contribute to the reduction of child mortality and maternal health risks. The findings from this analysis provide valuable information for healthcare professionals and decision-makers to take appropriate actions in the context of fetal health. The identification of key factors that influence fetal health predictions can aid in the timely intervention and prevention of adverse outcomes, ultimately contributing to the UN's Sustainable Development Goals of reducing child mortality and improving maternal health.
 
 Limitations
+
 However, it is crucial to acknowledge the limitations of this analysis. The dataset may not encompass all possible factors influencing fetal health, and further research and data collection might be needed to enhance the model's accuracy and generalizability. Additionally, the binary classification approach might overlook valuable insights present in the original three-class problem, and its impact on model performance should be considered.
