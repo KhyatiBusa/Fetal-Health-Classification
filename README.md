@@ -25,11 +25,16 @@ The original data had three possible fetal health outcomes: Normal, Suspect, and
 <img src="https://github.com/user-attachments/assets/24fab023-208a-4f6d-8712-932e679037a5" alt="image" width="400/">
 
 I combined the Suspect and Pathological classes into a category called At Risk to transform this into a binary classification problem.
+
+<img src="https://github.com/user-attachments/assets/c034e9a8-c551-4576-bf68-2efbbfdd6a0b" aly="image" width="400/">
+
+ There is a correlation between prolonged fetal heart rate deceleration and fetal health outcome. Generally speaking, the greater number of prolonged decelerations, the greater the risk.
  
-There is a correlation between prolonged fetal heart rate deceleration and fetal health outcome. Generally speaking, the greater number of prolonged decelerations, the greater the risk. 
+<img src="https://github.com/user-attachments/assets/e6295453-884a-43c1-ab67-2c0c161d5e27" alt="image" width="400/">
  
 There was a clear relationship between abnormal short and long term fetal heart rate variability and fetal health outcome.
  
+<img src="https://github.com/user-attachments/assets/dde23201-bbb4-4923-a8b0-37f991bbf301" alt="image" width="400/">
 
 
 Conclusion
